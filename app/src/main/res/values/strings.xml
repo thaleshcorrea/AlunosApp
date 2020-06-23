@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AlunosApp</string>
+    <string name="title_activity_login">LoginActivity</string>
+
+    <string name="bem_vindo">Bem-Vindo</string>
+    <string name="login">Faça login para continuar</string>
+    <string name="entrar">Entrar</string>
+    <string name="cadastrar">Cadastre-se</string>
+    <string name="usuario">Usuário</string>
+    <string name="senha">Senha</string>
+    <string name="confirmacaoSenha">Confirmar senha</string>
+    <string name="sp_usuario">SP_USUARIO</string>
+    <string name="pagina_inicial">Página Inicial</string>
+    <string name="sem_usuario">Sem usuário</string>
+    <string name="usuario_ou_senha_invalidos">Usuário ou Senha inválidos</string>
+
+    <string name="salvar">Salvar</string>
+
+</resources>
